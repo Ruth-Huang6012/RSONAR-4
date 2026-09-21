@@ -1,0 +1,10 @@
+SERVER = '172.20.3.151'
+PORT = 5001
+interval = 5
+folder_to_downlink = '/home/ruthn/Documents/Code/comms'
+img_text_file = 'commsDataKeeper.csv'
+gps_text_file = 'gps_log.txt'
+rtc_text_file = 'rtc_data.txt'
+num_bytes = 1
+bytes_sleep = 0.001
+num_images = 5
